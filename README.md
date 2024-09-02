@@ -5,6 +5,11 @@
 - 😄 Pronouns: He/Him
 
 
+WELCOME TO MY PERSONAL REPOSITORY ON GITHUB!!
+
+THIS REPOSITORY IS UNDER CONSTRUCTION, GOOD IDEAS WILL COME!
+
+
 <!---
 GuiNGBarros/GuiNGBarros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
